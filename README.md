@@ -6,7 +6,7 @@ This lab notebook explores foundational probability concepts and their empirical
 - The **Central Limit Theorem (CLT)**: distribution of sample means.
 - **Chebyshev’s inequality** on a discrete die, plus **tail-probability checks** for Uniform, Normal, and Gamma distributions.
 
-> Notebook: `lab05_chebyshev_lln_clt.ipynb`.
+> Notebook: `chebyshev_lln_clt.ipynb`.
 
 ---
 
