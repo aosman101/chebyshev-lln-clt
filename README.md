@@ -1,8 +1,8 @@
 # Chebyshev, LLN & CLT (Data Science)
 
-This lab notebook explores foundational probability concepts and their empirical behaviour:
+This lab notebook examines fundamental concepts of probability and their practical applications.
 - Building an **idealised binomial distribution** (Pascal’s triangle) and coin-flip experiments.
-- The **Law of Large Numbers (LLN)**: sample means stabilizing as n grows.
+- The **Law of Large Numbers (LLN)**: sample means stabilising as n grows.
 - The **Central Limit Theorem (CLT)**: distribution of sample means.
 - **Chebyshev’s inequality** on a discrete die, plus **tail-probability checks** for Uniform, Normal, and Gamma distributions.
 
@@ -32,8 +32,8 @@ This lab notebook explores foundational probability concepts and their empirical
 
 ## Structure
 
-├─ chebyshev_lln_clt.ipynb # main lab notebook.
+├─ chebyshev_lln_clt.ipynb # Primary laboratory notebook.
 
 ├─ README.md.
 
-└─ (optional) requirements.txt # pin versions if you like.
+└─ (optional) requirements.txt # You can pin the versions.
